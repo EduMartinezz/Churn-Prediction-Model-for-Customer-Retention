@@ -1,5 +1,5 @@
 ## Churn-Prediction-Model-for-Customer-Retention
-**Build a machine learning model to predict which customers are likely to churn and identify factors driving their departure
+**Build a machine learning model to predict which customers are likely to churn and identify factors driving their departure**
 
 ## Telco Customer Churn Prediction Pipeline
 ![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)  
