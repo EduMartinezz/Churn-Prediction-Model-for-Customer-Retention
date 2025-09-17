@@ -97,11 +97,10 @@ This project demonstrates a **full ML workflow**: preprocessing, feature enginee
 ## 📷 Screenshots
 
 ### Evaluation Dashboard
-(https://github.com/EduMartinezz/Churn-Prediction-Model-for-Customer-Retention/commit/944c6af2bab9133166e6138da6aa976033835bf1)
-
+https://github.com/EduMartinezz/Churn-Prediction-Model-for-Customer-Retention/blob/main/appIntro.PNG
 ### Prediction Output
-
-
+https://github.com/EduMartinezz/Churn-Prediction-Model-for-Customer-Retention/blob/main/app_predict.PNG
+https://github.com/EduMartinezz/Churn-Prediction-Model-for-Customer-Retention/blob/main/app_predict2.PNG
 ---
 
 ## ▶️ Quickstart (Colab / Local)
